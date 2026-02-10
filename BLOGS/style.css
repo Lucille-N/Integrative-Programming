@@ -1,7 +1,7 @@
 html {
   scroll-behavior: smooth;
 }
-li {
+nav ul li a {
   font-family: 'Montserrat', sans-serif; 
 }
 body {
@@ -64,3 +64,4 @@ p {
     line-height: 6px;
 
 }
+
