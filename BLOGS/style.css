@@ -1,6 +1,9 @@
 html {
   scroll-behavior: smooth;
 }
+li {
+  font-family: 'Montserrat', sans-serif; 
+}
 body {
   margin: 1in;
   background-image: url("https://starwalk.space/gallery/images/what-is-space/1540x866.jpg");
@@ -59,4 +62,5 @@ p {
     font-size: 50px;
     font-weight: bold;
     line-height: 6px;
+
 }
